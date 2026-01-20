@@ -122,7 +122,7 @@ export default function CampaignDashboard() {
       {/* Footer */}
       <div className="max-w-7xl mx-auto mt-12 pt-8 border-t text-center" style={{ borderColor: 'var(--elyos-dark-card)' }}>
         <p className="text-gray-500 text-sm">
-          Built by <span className="font-semibold" style={{ color: 'var(--elyos-orange)' }}>Antipas Ukawoko</span> 
+          Built by <span className="font-semibold" style={{ color: 'var(--elyos-orange)' }}>Antipas Ben</span> 
           {' '}for Elyos AI • Demo Prototype • January 2026
         </p>
       </div>
